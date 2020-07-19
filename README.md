@@ -1,2 +1,3 @@
 # Site Tech Girl
-Site acâdemico, desenvolvido sem fins lucrativos para projeto no curso da Digital House de Web design.
+Site acâdemico, desenvolvido em grupo sem fins lucrativos para projeto no curso da Digital House de Web design.
+
