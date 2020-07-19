@@ -1,2 +1,2 @@
-# introducing-myself
-Aprendendo com Digital House from FB by Amadeus Delfino e Lucas Cavalieri
+# Site Tech Girl
+Site acâdemico, desenvolvido sem fins lucrativos para projeto no curso da Digital House de Web design.
